@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/taskTracker-app/static/css/main.b3cf6f48.chunk.css",
+    "main.js": "/taskTracker-app/static/js/main.efac7c2e.chunk.js",
+    "main.js.map": "/taskTracker-app/static/js/main.efac7c2e.chunk.js.map",
+    "runtime-main.js": "/taskTracker-app/static/js/runtime-main.bc68dfc8.js",
+    "runtime-main.js.map": "/taskTracker-app/static/js/runtime-main.bc68dfc8.js.map",
+    "static/js/2.d435cba6.chunk.js": "/taskTracker-app/static/js/2.d435cba6.chunk.js",
+    "static/js/2.d435cba6.chunk.js.map": "/taskTracker-app/static/js/2.d435cba6.chunk.js.map",
+    "index.html": "/taskTracker-app/index.html",
+    "static/css/main.b3cf6f48.chunk.css.map": "/taskTracker-app/static/css/main.b3cf6f48.chunk.css.map",
+    "static/js/2.d435cba6.chunk.js.LICENSE.txt": "/taskTracker-app/static/js/2.d435cba6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc68dfc8.js",
+    "static/js/2.d435cba6.chunk.js",
+    "static/css/main.b3cf6f48.chunk.css",
+    "static/js/main.efac7c2e.chunk.js"
+  ]
+}
